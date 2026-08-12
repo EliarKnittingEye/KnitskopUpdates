@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "notes": "Knitskop V2 ilk surum.",
+  "windows": {
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.0.0/Knitskop-Windows-Setup.exe",
+    "sha256": "",
+    "fileName": "Knitskop-Windows-Setup.exe",
+    "sizeBytes": 0
+  },
+  "mac": {
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.0.0/Knitskop-macOS-arm64.dmg",
+    "sha256": "",
+    "fileName": "Knitskop-macOS-arm64.dmg",
+    "sizeBytes": 0
+  }
+}
