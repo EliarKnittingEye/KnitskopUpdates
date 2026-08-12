@@ -1,16 +1,16 @@
 {
   "version": "2.0.0",
-  "notes": "Knitskop V2 ilk surum.",
+  "notes": "Knitskop V2 ilk surum. Makine izleme kartinda Kumas ve FPS gostergesi, Tailscale olu tunel duzeltmesi, olu API uclarinin temizlenmesi.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.0.0/Knitskop-Windows-Setup.exe",
+    "url": "",
     "sha256": "",
     "fileName": "Knitskop-Windows-Setup.exe",
     "sizeBytes": 0
   },
   "mac": {
     "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.0.0/Knitskop-macOS-arm64.dmg",
-    "sha256": "",
+    "sha256": "dc220fb5fe7c57eae50b2bdbf660094bf2b953759e8b7b226bde190a5840692a",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 0
+    "sizeBytes": 139631565
   }
 }
