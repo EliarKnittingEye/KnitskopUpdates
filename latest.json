@@ -1,16 +1,16 @@
 {
-  "version": "2.1.1",
-  "notes": "KnittingEye Lite uyumu: rapor modulu cihazin REST ucundan besleniyor (PostgreSQL kaldirildi). Servis modu: pencere kapatilinca senkronizasyon surer, oturum acilisinda otomatik baslar. Paketleme duzeltmeleri.",
+  "version": "2.1.2",
+  "notes": "Hata gorseli albumu: gorseller inerken arayuz donmuyor, kucuk gorsele tiklayinca buyuk hali aciliyor.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.1.1/Knitskop-Windows-Setup.exe",
-    "sha256": "46e4dd78777ec3ed62c7e9601a7adbdf5d75131f567057628883066d99cddb4f",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.1.2/Knitskop-Windows-Setup.exe",
+    "sha256": "5ad990886e876e76c50612e818ddc450889c84e7591f989a23eefba88ab940d6",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122177548
+    "sizeBytes": 122179669
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.1.1/Knitskop-macOS-arm64.dmg",
-    "sha256": "289c6a781f222848d340a8879ddc3ba0e5b440062903a304c5685ce140fb0ee2",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.1.2/Knitskop-macOS-arm64.dmg",
+    "sha256": "7008c76ba7e80c197b4a47eafb7902121ae98b1f2975a7768b12d692a73e57fd",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139596160
+    "sizeBytes": 139614307
   }
 }
