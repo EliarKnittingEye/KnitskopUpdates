@@ -33,18 +33,29 @@ bakılmaz — böylece eski bir manifest yanlışlıkla sürüm düşürmeye yol
 
 ## Yeni sürüm yayınlama
 
-1. Kurulum dosyalarını üretin (uygulama deposunda `npm run pack:mac` /
-   `pack:win`).
-2. Bu depoda `v<sürüm>` etiketiyle bir Release açın ve iki dosyayı yükleyin.
-3. `latest.json`'u güncelleyin: `version`, `notes`, her iki platform için
-   `url`, `sha256`, `sizeBytes`.
-
-SHA-256 hesaplamak için:
+Uygulama deposunda (özel) üç komut:
 
 ```bash
-shasum -a 256 "ELIAR Knitskop V2-2.0.0-arm64.dmg"   # macOS
-certutil -hashfile Knitskop-Windows-Setup.exe SHA256  # Windows
+rm -rf release
+npm run pack:mac && npm run pack:win   # kurulum dosyalarini uret
+npm run verify:pack                    # paket gercekten aciliyor mu
+npm run prepare:release                # release/upload/ + latest.json hazirla
+npm run publish:release                # bu depoya yayinla
 ```
 
+`publish:release` sırayı garanti eder: Release oluşturur, dosyaları yükler,
+sunucudan boyut/durum doğrular, dosyaları **gerçekten indirip SHA-256
+karşılaştırır** ve `latest.json`'u ancak bunların hepsi geçtiyse günceller.
+
+> `latest.json` dosyalar yüklenmeden güncellenirse sahadaki bütün kurulumlar
+> var olmayan bir dosyayı indirmeye çalışır. Bu yüzden manifest her zaman en
+> son adımdır.
+
 `sha256` alanı **doldurulmalıdır** — uygulama indirdiği dosyayı bu özetle
-doğrular, uyuşmazsa kurulumu reddeder.
+doğrular, uyuşmazsa kurulumu reddeder. `prepare:release` bunu kendiliğinden
+hesaplar; elle hesaplamak gerekirse:
+
+```bash
+shasum -a 256 Knitskop-macOS-arm64.dmg                # macOS
+certutil -hashfile Knitskop-Windows-Setup.exe SHA256  # Windows
+```
