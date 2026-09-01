@@ -1,16 +1,16 @@
 {
-  "version": "2.0.0",
-  "notes": "Knitskop V2 ilk surum. Makine izleme kartinda Kumas ve FPS gostergesi, Tailscale olu tunel duzeltmesi, olu API uclarinin temizlenmesi.",
+  "version": "2.1.1",
+  "notes": "KnittingEye Lite uyumu: rapor modulu cihazin REST ucundan besleniyor (PostgreSQL kaldirildi). Servis modu: pencere kapatilinca senkronizasyon surer, oturum acilisinda otomatik baslar. Paketleme duzeltmeleri.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.0.0/Knitskop-Windows-Setup.exe",
-    "sha256": "b7812fece5d32b0432376c000662f8c05622711e38a154a5d04123d5de51cd73",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.1.1/Knitskop-Windows-Setup.exe",
+    "sha256": "46e4dd78777ec3ed62c7e9601a7adbdf5d75131f567057628883066d99cddb4f",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122202522
+    "sizeBytes": 122177548
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.0.0/Knitskop-macOS-arm64.dmg",
-    "sha256": "dc220fb5fe7c57eae50b2bdbf660094bf2b953759e8b7b226bde190a5840692a",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.1.1/Knitskop-macOS-arm64.dmg",
+    "sha256": "289c6a781f222848d340a8879ddc3ba0e5b440062903a304c5685ce140fb0ee2",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139631565
+    "sizeBytes": 139596160
   }
 }
