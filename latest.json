@@ -1,16 +1,16 @@
 {
-  "version": "2.2.0",
-  "notes": "Izleme kartlari yeniden tasarlandi: kumas akisi kart uzerinde canli izleniyor (ac demeye gerek yok), RPM halka gostergesi, hata/verim/operator gostergeleri, yogun liste gorunumu ve acik tema duzeltmesi.",
+  "version": "2.2.1",
+  "notes": "Donma giderildi: canli akis yolu artik iletilmeyecek kareleri hic islemiyor (%80 daha az is), varsayilan 3 fps, hata durumunda bekleme ve en fazla 6 es zamanli akis. Izleme basligina Canli akis secicisi eklendi (Kapali/1/2/3/6 fps). Hata gostergeleri artik cihazdaki TUM siniflari kendi etiketi ve rengiyle gosteriyor; yeni sinif eklenirse kendiliginden gorunur. Top/Tur gostergeleri sadelestirildi, liste gorunumunde kumas goruntusu buyutuldu.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.0/Knitskop-Windows-Setup.exe",
-    "sha256": "8881e7cb0eb8ea0bf208c916ca7989c04e5029a007ffc5d403f3a3d085134ce2",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.1/Knitskop-Windows-Setup.exe",
+    "sha256": "fa2f7f3b45dc9db90e765dedf8fdef1a79c49d204595d7d7ea7c025cdaf36df5",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122187134
+    "sizeBytes": 122190147
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.0/Knitskop-macOS-arm64.dmg",
-    "sha256": "f76a11b33104be43d0cd5f6ad9f8100a46d869a4aa17d900e0032bea7049e3b1",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.1/Knitskop-macOS-arm64.dmg",
+    "sha256": "90b299700c98bd9e51750bfcf62464f664f17c498fc1220fc25678b46baa436a",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139619090
+    "sizeBytes": 139620456
   }
 }
