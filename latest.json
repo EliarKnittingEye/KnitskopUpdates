@@ -1,16 +1,16 @@
 {
-  "version": "2.1.2",
-  "notes": "Hata gorseli albumu: gorseller inerken arayuz donmuyor, kucuk gorsele tiklayinca buyuk hali aciliyor.",
+  "version": "2.2.0",
+  "notes": "Izleme kartlari yeniden tasarlandi: kumas akisi kart uzerinde canli izleniyor (ac demeye gerek yok), RPM halka gostergesi, hata/verim/operator gostergeleri, yogun liste gorunumu ve acik tema duzeltmesi.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.1.2/Knitskop-Windows-Setup.exe",
-    "sha256": "5ad990886e876e76c50612e818ddc450889c84e7591f989a23eefba88ab940d6",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.0/Knitskop-Windows-Setup.exe",
+    "sha256": "8881e7cb0eb8ea0bf208c916ca7989c04e5029a007ffc5d403f3a3d085134ce2",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122179669
+    "sizeBytes": 122187134
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.1.2/Knitskop-macOS-arm64.dmg",
-    "sha256": "7008c76ba7e80c197b4a47eafb7902121ae98b1f2975a7768b12d692a73e57fd",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.0/Knitskop-macOS-arm64.dmg",
+    "sha256": "f76a11b33104be43d0cd5f6ad9f8100a46d869a4aa17d900e0032bea7049e3b1",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139614307
+    "sizeBytes": 139619090
   }
 }
