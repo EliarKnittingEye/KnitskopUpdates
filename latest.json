@@ -1,16 +1,16 @@
 {
-  "version": "2.2.2",
-  "notes": "Durus suresi artik cihazin kendi hiz gecmisinden okunuyor; bilinmiyorsa sure gosterilmiyor (uydurulmuyor). Is emri, kumas, operator, top ve tur bilgileri REST'ten aliniyor, kartlar bos kalmiyor. Canli akista yalnizca kamera kareleri gosteriliyor (hata kirpintisi/durdurma goruntusu karismiyor), akis kesilirse donmus kare birakilmiyor, Karanlik goruntu rozeti takili kalmiyor.",
+  "version": "2.2.3",
+  "notes": "Kararsizlik giderildi: cihazin en pahali ucu (aktif topun butun hiz gecmisi, ~1,4 MB) her yoklamada iki kez cagriliyordu; artik top basina bir kez. Canli goruntu 'bekleniyor'da takili kalmiyor (kare filtresi cok kati idi). Senkronizasyon ekranina Canli Akis Tanilama paneli eklendi.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.2/Knitskop-Windows-Setup.exe",
-    "sha256": "3e432e99cf6a338e8a02662f4b681df6607dce77c75e3b2e2b27f8e14cac0fad",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.3/Knitskop-Windows-Setup.exe",
+    "sha256": "221519271d5c4c4109fde5a71636ed1dc931c6dcc869859a6306ede9fa0eb23e",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122191462
+    "sizeBytes": 122193030
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.2/Knitskop-macOS-arm64.dmg",
-    "sha256": "dcd153d947d91dfab3fd7856c0a7d588a6dcadbcb396451566f17454dc678ffb",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.3/Knitskop-macOS-arm64.dmg",
+    "sha256": "6e35d871ed519fc0dc07a18d49b2c95fabc0ceb96b4c1afe5d973301504ddbc0",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139623975
+    "sizeBytes": 139619018
   }
 }
