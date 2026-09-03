@@ -1,16 +1,16 @@
 {
-  "version": "2.2.3",
-  "notes": "Kararsizlik giderildi: cihazin en pahali ucu (aktif topun butun hiz gecmisi, ~1,4 MB) her yoklamada iki kez cagriliyordu; artik top basina bir kez. Canli goruntu 'bekleniyor'da takili kalmiyor (kare filtresi cok kati idi). Senkronizasyon ekranina Canli Akis Tanilama paneli eklendi.",
+  "version": "2.2.4",
+  "notes": "Knitskop 2.2.4.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.3/Knitskop-Windows-Setup.exe",
-    "sha256": "221519271d5c4c4109fde5a71636ed1dc931c6dcc869859a6306ede9fa0eb23e",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.4/Knitskop-Windows-Setup.exe",
+    "sha256": "f5ab6f78d0be1f5ca0646125d86c67fa57ea8dfa5622e64ce90701d3234ae894",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122193030
+    "sizeBytes": 122196071
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.3/Knitskop-macOS-arm64.dmg",
-    "sha256": "6e35d871ed519fc0dc07a18d49b2c95fabc0ceb96b4c1afe5d973301504ddbc0",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.4/Knitskop-macOS-arm64.dmg",
+    "sha256": "50d54dae51cb3c3405193850ef4814e2666128efa4359051fb2720a2b7f387d2",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139619018
+    "sizeBytes": 139626353
   }
 }
