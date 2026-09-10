@@ -1,16 +1,16 @@
 {
-  "version": "2.2.8",
-  "notes": "Knitskop 2.2.8.",
+  "version": "2.2.9",
+  "notes": "Knitskop 2.2.9.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.8/Knitskop-Windows-Setup.exe",
-    "sha256": "d4107c553aac49176e5379f2176374bdcb3ac731cf2986b50047558aeb695ea1",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.9/Knitskop-Windows-Setup.exe",
+    "sha256": "2701af757e518f6e68a03333ce9764b497c97edfc6e1bd79d94f018f5c46eba1",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122207088
+    "sizeBytes": 122207895
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.8/Knitskop-macOS-arm64.dmg",
-    "sha256": "5d61d5c70e65312b615dec86ec572bafca5de6e493775bbc09629719a26628fd",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.9/Knitskop-macOS-arm64.dmg",
+    "sha256": "4518cfb71ee87ceba7cacbf3e1279cc2d57f8ad6062d5fe2b0f45dca06932221",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139626105
+    "sizeBytes": 139627488
   }
 }
