@@ -1,16 +1,16 @@
 {
-  "version": "2.2.11",
-  "notes": "Knitskop 2.2.11. 2.2.14 gecici olarak beklemeye alindi: 2.2.12 ile degisen ayna tablo adlandirmasi, surumler arasi gecislerde tum aynanin yeniden cekilmesine ve arayuzde \"Baglanti hatasi\" ile gorunen 20-30 saniyelik takilmalara yol aciyor. Inceleniyor.",
+  "version": "2.2.15",
+  "notes": "Knitskop 2.2.15 - ayna verisinin ikiye bolunmesi giderildi.\n\nBazi kurulumlarda uygulama saniyeler suren takilmalara giriyor ve arayuzde 'Baglanti hatasi' gorunuyordu. Sebebi ag degil: 2.2.12 ile tablo adlandirmasi degisti ve eski surume donup tekrar yeniye gecen kurulumlarda makinelerden kopyalanan veri diskte IKI AYRI TAKIMA bolunuyordu. Her surum kendi takimindaki eksigi doldurmaya calisiyor, surekli toplu yazma veritabanini buyutuyor ve uygulamanin yanit vermesini engelliyordu.\n\nArtik ilk acilista iki takim tek takimda birlestirilip fazlasi siliniyor. Birlestirme bir kez yapilir, cakisan kayitlarda guncel olan korunur, veri kaybi olmaz. Bir sahada veritabani 2,6 GB'tan 1,8 GB'a indi.\n\n2.2.14'teki macOS guncelleme kurulumu duzeltmesi de bu surumde gecerlidir.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.11/Knitskop-Windows-Setup.exe",
-    "sha256": "85cd250622644ec26ff7e5b1b8ca17a6a6100521029d4d5ccad7004d9059d256",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.15/Knitskop-Windows-Setup.exe",
+    "sha256": "013dc578c6db2bcc347d870bb7b42797c1808e147ba4630cd0e7d6e15c7f48f7",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122209162
+    "sizeBytes": 122551429
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.11/Knitskop-macOS-arm64.dmg",
-    "sha256": "b702496f8c323cb776d467c989c5e42731c629077830f8143b10ae793266135e",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.15/Knitskop-macOS-arm64.dmg",
+    "sha256": "68a437d9c75dc821d4484ce7013343c9077dd6770b82007073121c0a8af795e6",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139627579
+    "sizeBytes": 140025209
   }
 }
