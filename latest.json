@@ -1,16 +1,16 @@
 {
-  "version": "2.2.13",
-  "notes": "Knitskop 2.2.13.",
+  "version": "2.2.11",
+  "notes": "Knitskop 2.2.11. 2.2.13 geri cekildi: macOS guncelleme betigi eski paketi yerine yenisi konmadan siliyordu ve kurulum bozuluyordu.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.13/Knitskop-Windows-Setup.exe",
-    "sha256": "ad56aabaee1284d0815e50fd1fd53f1e2cbc1f8d1d15bc728650f3d8deaac39a",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.11/Knitskop-Windows-Setup.exe",
+    "sha256": "85cd250622644ec26ff7e5b1b8ca17a6a6100521029d4d5ccad7004d9059d256",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122549767
+    "sizeBytes": 122209162
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.13/Knitskop-macOS-arm64.dmg",
-    "sha256": "e000d51b46365e53241ca13356543e88ebf890e5c52840695a55937a1f46e5c4",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.11/Knitskop-macOS-arm64.dmg",
+    "sha256": "b702496f8c323cb776d467c989c5e42731c629077830f8143b10ae793266135e",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 140024401
+    "sizeBytes": 139627579
   }
 }
