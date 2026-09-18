@@ -1,16 +1,16 @@
 {
-  "version": "2.2.11",
-  "notes": "Knitskop 2.2.11. 2.2.13 geri cekildi: macOS guncelleme betigi eski paketi yerine yenisi konmadan siliyordu ve kurulum bozuluyordu.",
+  "version": "2.2.14",
+  "notes": "Knitskop 2.2.14 - macOS guncelleme kurulumu duzeltmesi.\n\n2.2.13'te macOS guncellemesi sirasinda uygulama tamamen kaybolabiliyor ve arka plan servisi cokme dongusune girebiliyordu. Kurulum betigi eski uygulamayi, yenisi dogrulanmadan siliyordu; ayrica servis kurulum ortasinda launchd tarafindan yarim paketten yeniden baslatiliyordu.\n\nBu surumde yeni paket once dogrulaniyor (ana ikili + yardimci uygulamalar), eski surum silinmek yerine kenara aliniyor ve her hata yolunda geri getiriliyor; servis pakete dokunulmadan once durdurulup sonra geri baslatiliyor.\n\nONEMLI: Bu duzeltme bu surumden SONRAKI guncellemeleri korur. 2.2.11 veya 2.2.13 kurulu makineler 2.2.14'e gecerken kurulumu hala eski betik yurutur - bu makinelere 2.2.14'u DMG/Setup ile elle kurun.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.11/Knitskop-Windows-Setup.exe",
-    "sha256": "85cd250622644ec26ff7e5b1b8ca17a6a6100521029d4d5ccad7004d9059d256",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.14/Knitskop-Windows-Setup.exe",
+    "sha256": "f6ca74cec86ad57363fffd4698635e3750673ecfb6fcc80069a02d4ef04c8260",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122209162
+    "sizeBytes": 122550620
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.11/Knitskop-macOS-arm64.dmg",
-    "sha256": "b702496f8c323cb776d467c989c5e42731c629077830f8143b10ae793266135e",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.14/Knitskop-macOS-arm64.dmg",
+    "sha256": "b25cbec033fa374a35b9ee7b7487dafa4031375b6188f412ec371cb9962387db",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139627579
+    "sizeBytes": 140025452
   }
 }
