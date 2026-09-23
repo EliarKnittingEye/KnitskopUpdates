@@ -1,16 +1,16 @@
 {
-  "version": "2.2.17",
-  "notes": "Knitskop 2.2.17 - mac guncelleme kurulumu saglamlastirildi.\n\n2.2.16 yayinindan hemen sonra bir kurulumda /Applications tamamen bosaldi: eski surum, yeni kopya dogrulanmadan siliniyordu. Artik yeni paket calistirilabilir mi ve imzasi gecerli mi once kontrol ediliyor; dogrulama gecmeden eskisine dokunulmuyor, kurulum basarisiz olursa bile uygulama eski surumle tekrar aciliyor.",
+  "version": "2.2.18",
+  "notes": "Knitskop 2.2.18.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.17/Knitskop-Windows-Setup.exe",
-    "sha256": "0b19e8c051be8aa781e504c436e0d46fbce2e7bd105804dc295671e94abc6657",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.18/Knitskop-Windows-Setup.exe",
+    "sha256": "898ef34d4cc2300d0046a826d1517a284df2eb87b450ec4747bf4e8bda8979a3",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 122210074
+    "sizeBytes": 122563021
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.17/Knitskop-macOS-arm64.dmg",
-    "sha256": "ed87c5ab0309f210cba161aace9d7456704e876e3109f3c38fbb099782574530",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.18/Knitskop-macOS-arm64.dmg",
+    "sha256": "f763b3cb6ed9dc1d764fec2f5d5ba6563212986b34d7eecf6dfa47ec98a4c5c7",
     "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 154786916
+    "sizeBytes": 155156335
   }
 }
