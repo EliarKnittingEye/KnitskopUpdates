@@ -8,9 +8,9 @@
     "sizeBytes": 122568376
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.39/Knitskop-macOS-arm64.dmg",
-    "sha256": "ef06db08d1d38b5b511041b520db5796a79edd2732b8bbf297cdc78bdfe0edc1",
-    "fileName": "Knitskop-macOS-arm64.dmg",
-    "sizeBytes": 139090068
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.39/Knitskop-macOS-universal.dmg",
+    "sha256": "6aaf8ce949ed134640f4cc608f3d9e0932252d680a3f8617d7f5aeace9b124f8",
+    "fileName": "Knitskop-macOS-universal.dmg",
+    "sizeBytes": 247500576
   }
 }
