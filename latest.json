@@ -1,16 +1,16 @@
 {
-  "version": "2.2.43",
-  "notes": "Knitskop 2.2.43: Top Raporu (Yönetici) küçük bir düzeltme aldı; hiç kusur bulunmayan toplarda rapor artık \"Hata bulunmadığı için durdurma gerekmedi\" yazıyor. 2.2.42 ile gelen Top Raporu ve PDF aktarma bu sürümde de geçerli. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.44",
+  "notes": "Knitskop 2.2.44: Makine veritabanı sıfırlandığında eski topların kayıtlarının yeni toplara karışması düzeltildi. Güncellemeden sonraki ilk açılışta mevcut kayıtlar otomatik onarılır (birkaç dakika sürebilir, önce yedek alınır); hiçbir kayıt silinmez.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.43/Knitskop-Windows-Setup.exe",
-    "sha256": "25315c83e6cff67fb6c20443d014a76ca06c33b9dc9bdbb43b4adae86ccd2023",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.44/Knitskop-Windows-Setup.exe",
+    "sha256": "287634728a812cf9adb7998611a548660c9c1d913119de8711b0d6992106d378",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109828838
+    "sizeBytes": 109835461
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.43/Knitskop-macOS-universal.dmg",
-    "sha256": "31c75a439d2c1c10a4077bc5331ce220a07d9a55e97554e0f57aa1c60fb47a35",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.44/Knitskop-macOS-universal.dmg",
+    "sha256": "c91dbf37fe22501bedad2c2ce54c0d4f131c98d35182ec3cc66182f010c9dd49",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231875256
+    "sizeBytes": 231919011
   }
 }
