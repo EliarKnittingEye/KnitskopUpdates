@@ -1,16 +1,16 @@
 {
-  "version": "2.2.44",
-  "notes": "Knitskop 2.2.44: Makine veritabanı sıfırlandığında eski topların kayıtlarının yeni toplara karışması düzeltildi. Güncellemeden sonraki ilk açılışta mevcut kayıtlar otomatik onarılır (birkaç dakika sürebilir, önce yedek alınır); hiçbir kayıt silinmez.",
+  "version": "2.2.45",
+  "notes": "Knitskop 2.2.45: Eski kayıtların saatleri artık yerel saatle gösteriliyor. Veritabanı sıfırlanmadan önceki eski iş emirleri için Top Raporu künye ve başlangıç saatini doğru gösterir. Hiçbir kayıt silinmez; güncelleme uygulama içinden yapılır.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.44/Knitskop-Windows-Setup.exe",
-    "sha256": "287634728a812cf9adb7998611a548660c9c1d913119de8711b0d6992106d378",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.45/Knitskop-Windows-Setup.exe",
+    "sha256": "46074efb6ae112d02690d0f325de6c30351bf1c0b5091ffb1074a0aad0e27453",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109835461
+    "sizeBytes": 109838412
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.44/Knitskop-macOS-universal.dmg",
-    "sha256": "c91dbf37fe22501bedad2c2ce54c0d4f131c98d35182ec3cc66182f010c9dd49",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.45/Knitskop-macOS-universal.dmg",
+    "sha256": "6eb13928756f4655cab50eb4d6ea975791e6661c5c93aab2c00c4faf0b296778",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231919011
+    "sizeBytes": 231920955
   }
 }
