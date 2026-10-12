@@ -1,16 +1,16 @@
 {
-  "version": "2.2.48",
-  "notes": "Knitskop 2.2.48: Makine (Lite) yazılımı kayıt zamanlarını tam tarih ve saat olarak göndermeye başladığında toplar ve raporlar bunu doğru okuyor; saatler ve günler kaymıyor. Eski kayıtlar eskisi gibi çalışır; güncelleme uygulama içinden yapılır.",
+  "version": "2.2.49",
+  "notes": "Knitskop 2.2.49: Günlük ve haftalık/dönem raporlarında PDF düğmesine tek tıklayınca PDF artık yalnız bir kez üretiliyor. PDF hazırlanırken düğme kilitlenir ve İptal çubuğu görünür. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.48/Knitskop-Windows-Setup.exe",
-    "sha256": "4c9353844792aa6d398c028c2eef12c529b1e6354cb07cf2f251d0a63134e7a8",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.49/Knitskop-Windows-Setup.exe",
+    "sha256": "648ff983a6194168207bc6365d4fe0f81e0ee4ab50a1ee5dd5a357f73b16e421",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109850352
+    "sizeBytes": 109852102
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.48/Knitskop-macOS-universal.dmg",
-    "sha256": "5a48aa982918f01996c0befd042bdda3c562767cbff175ae0fed0f4344eff348",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.49/Knitskop-macOS-universal.dmg",
+    "sha256": "fb243e9cccbacf4dd0435a95e1467b4c0950ca0d215b89a52b7de69edf1b890c",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231875043
+    "sizeBytes": 231882759
   }
 }
