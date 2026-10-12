@@ -1,16 +1,16 @@
 {
-  "version": "2.2.60",
-  "notes": "Knitskop 2.2.60: Raporun üst kısmına altı küçük gösterge eklendi: çalışma süresi, duruş, ölçüm kapsamı, ortalama hız (dönerken), tahmini enerji ve saatlik tur. Ölçüm kapsamı düşükse ilgili kutuda uyarı simgesi görünür. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.61",
+  "notes": "Knitskop 2.2.61: Tüm sayfaların görünümü yenilendi: tek tip stil dosyası, koyu tema geçişi ve rapor ekranında filtre çubuğu ile göstergelerin yeni düzeni. İşlevler ve veriler değişmedi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.60/Knitskop-Windows-Setup.exe",
-    "sha256": "5427aef2fdcf96f7b179e3c8322ebadf194af462734a8c9abb7ea064771cca06",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.61/Knitskop-Windows-Setup.exe",
+    "sha256": "8f2c6bedf2fec57148691551c6e6effe7d0ac9aa5325e08d679bfaee3d0edb0e",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109858776
+    "sizeBytes": 109863551
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.60/Knitskop-macOS-universal.dmg",
-    "sha256": "ba55008db02d83b301a8c711aea57a6208062b31f53c2c4b473ba86173b1b814",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.61/Knitskop-macOS-universal.dmg",
+    "sha256": "1a0ec1c4fb8be2c3abe3bf95547a9ff7c916f0739a6f799d92b814dc13ca2402",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231896822
+    "sizeBytes": 231947257
   }
 }
