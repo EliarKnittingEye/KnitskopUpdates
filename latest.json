@@ -1,16 +1,16 @@
 {
-  "version": "2.2.58",
-  "notes": "Knitskop 2.2.58: Rapor ekranında Bu hafta artık haftanın başından şu ana kadar olan aralığı gösterir; henüz yaşanmamış günler dahil edilmez. Kusur sınıf adları düzeltildi (iğne kırığı sınıfı İğne Hataları olarak görünür; etiketi olmayan makinelerde okunaklı adlar kullanılır). Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.59",
+  "notes": "Knitskop 2.2.59: Rapor ekranının sınıf seçeneklerinde iğne kırığı sınıfı artık tüm makinelerde İğne Hataları adıyla görünür. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.58/Knitskop-Windows-Setup.exe",
-    "sha256": "2e7c8f806cdc19940d6cec8f048098791ee41c535684c671b930850ac2371909",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.59/Knitskop-Windows-Setup.exe",
+    "sha256": "5db2fdadbbbece2151898d4f72e10c7152115cdcae650a9b737a2a8c0bbe7e92",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109858000
+    "sizeBytes": 109857972
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.58/Knitskop-macOS-universal.dmg",
-    "sha256": "7e9c047514da86350ddfa526f17511bbf63394eb6b2c6f8950e9e86580377322",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.59/Knitskop-macOS-universal.dmg",
+    "sha256": "e315dd75fc0505ce030aacbdb2eee3e798f6121c8bf2c0756c333846ff2050c3",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231886654
+    "sizeBytes": 231886886
   }
 }
