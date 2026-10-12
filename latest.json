@@ -1,16 +1,16 @@
 {
-  "version": "2.2.62",
-  "notes": "Knitskop 2.2.62: Rapor üst kısmındaki kutu ve uyarı süreleri tutarlı hale getirildi; tahmini enerji kWh / 1000 tur olarak, hangi tur sayısından hesaplandığı yazılarak gösterilir. Makine durum kartları etiketli, çevrimdışı kartta uyarı tek kez gösterilir, daraltılmış yan menü düzeltildi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.63",
+  "notes": "Knitskop 2.2.63: Menüye Ayarlar girişi ve sayfası eklendi; Planlama ekranı seçimsiz açıldığında iş emri seçilmedi gösterir. Doğrudan İzleme çipleri, diyalog düzenleri, Excel içe aktarma simgesi, Senkron metni ve daraltılmış menüdeki ağ/Tailscale kutuları düzeltildi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.62/Knitskop-Windows-Setup.exe",
-    "sha256": "d9c70a63b024168425c4391e638093494ae79d5f9a6106c122c6db7a8e331d14",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.63/Knitskop-Windows-Setup.exe",
+    "sha256": "ed3afe51096e9ae179447c81d7fe03564ff09d798c8c4d198af06098a8ce69c0",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109863714
+    "sizeBytes": 109864981
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.62/Knitskop-macOS-universal.dmg",
-    "sha256": "a08f4ca798f96b9e08e679948c5579510ca37f1eb435b2a28390d9d0ef38a5e3",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.63/Knitskop-macOS-universal.dmg",
+    "sha256": "fcef40ad73c06abf76fdefe9f083e54c6cbcb15aa450dcbd71d7789d984e1391",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231947731
+    "sizeBytes": 231937128
   }
 }
