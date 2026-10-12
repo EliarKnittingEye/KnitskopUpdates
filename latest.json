@@ -1,16 +1,16 @@
 {
-  "version": "2.2.51",
-  "notes": "Knitskop 2.2.51: Yönetici raporlarında ek iyileştirmeler yapıldı. Tailscale bağlantı anahtarı artık macOS Anahtar Zinciri yerine uygulamanın kendi korumalı deposunda saklanıyor; Anahtar Zinciri izin penceresi artık çıkmaz. Önceki sürümden güncellerken ilk açılışta bir kez çıkabilir (İzin ver). Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.52",
+  "notes": "Knitskop 2.2.52: Yönetici raporlarındaki kusur kanıt görselleri iyileştirildi (kusur kutusuz, kenar çizgili, işaretsiz yakın çekim). Tailscale bağlantı anahtarı artık macOS Anahtar Zinciri yerine uygulamanın kendi korumalı deposunda saklanıyor; önceki sürümden güncellerken ilk açılışta bir kez izin penceresi çıkabilir (İzin ver). Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.51/Knitskop-Windows-Setup.exe",
-    "sha256": "3929f12f1e6ddf590285862707dd2667e60b2347baaa769be58bdb4cfa5f483d",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.52/Knitskop-Windows-Setup.exe",
+    "sha256": "8eb5b6802a331cc98eafde2101061838c3008f59c71646a12a16bee3c398e987",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109843531
+    "sizeBytes": 109846522
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.51/Knitskop-macOS-universal.dmg",
-    "sha256": "525363e8961d218b41509df3bc1437e5bff0f28ecba3004be78ddac651a48228",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.52/Knitskop-macOS-universal.dmg",
+    "sha256": "b5ea8c45704c5ff35653bce4e23623b0faf7cf7ccd4f64ca46922e5d47484969",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231929332
+    "sizeBytes": 231922240
   }
 }
