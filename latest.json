@@ -1,16 +1,16 @@
 {
-  "version": "2.2.46",
-  "notes": "Knitskop 2.2.46: Çevrimdışı bir makinenin Top Raporu artık birkaç saniyede açılıyor. Tailscale bağlantı anahtarı artık şifreli saklanıyor; macOS ilk açılışta Anahtar Zinciri izni isteyebilir (\"Her zaman izin ver\" seçin). Hiçbir rapor verisi silinmez; güncelleme uygulama içinden yapılır.",
+  "version": "2.2.47",
+  "notes": "Knitskop 2.2.47: Uzun süre kapalı kalıp geri dönen makinelerin topları artık doğru güne yazılıyor. Daha önce yanlış güne yazılmış eski toplar güncellemeden sonraki ilk açılışta otomatik onarılır (birkaç dakika sürebilir, önce yedek alınır); hiçbir kayıt silinmez.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.46/Knitskop-Windows-Setup.exe",
-    "sha256": "8455f1804091f4983c2b4e9cc1915fd3b6024b9e85298345998f3f73d58b0e85",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.47/Knitskop-Windows-Setup.exe",
+    "sha256": "688a26084974f3cb4c8501cae44865956219b9b31b0cfa01c54fbe8b4bd3ffa1",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109844657
+    "sizeBytes": 109849864
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.46/Knitskop-macOS-universal.dmg",
-    "sha256": "3d89b87a7bf55c6449e1f57c10c1481f28c0ea736f9f2f494e2182051a564fe2",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.47/Knitskop-macOS-universal.dmg",
+    "sha256": "4ec9904977b229e0fa411f0daf5f193b43af92038b21c28a138ebcb14ed9248e",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231893617
+    "sizeBytes": 231874414
   }
 }
