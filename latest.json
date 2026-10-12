@@ -1,16 +1,16 @@
 {
-  "version": "2.2.59",
-  "notes": "Knitskop 2.2.59: Rapor ekranının sınıf seçeneklerinde iğne kırığı sınıfı artık tüm makinelerde İğne Hataları adıyla görünür. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.60",
+  "notes": "Knitskop 2.2.60: Raporun üst kısmına altı küçük gösterge eklendi: çalışma süresi, duruş, ölçüm kapsamı, ortalama hız (dönerken), tahmini enerji ve saatlik tur. Ölçüm kapsamı düşükse ilgili kutuda uyarı simgesi görünür. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.59/Knitskop-Windows-Setup.exe",
-    "sha256": "5db2fdadbbbece2151898d4f72e10c7152115cdcae650a9b737a2a8c0bbe7e92",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.60/Knitskop-Windows-Setup.exe",
+    "sha256": "5427aef2fdcf96f7b179e3c8322ebadf194af462734a8c9abb7ea064771cca06",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109857972
+    "sizeBytes": 109858776
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.59/Knitskop-macOS-universal.dmg",
-    "sha256": "e315dd75fc0505ce030aacbdb2eee3e798f6121c8bf2c0756c333846ff2050c3",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.60/Knitskop-macOS-universal.dmg",
+    "sha256": "ba55008db02d83b301a8c711aea57a6208062b31f53c2c4b473ba86173b1b814",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231886886
+    "sizeBytes": 231896822
   }
 }
