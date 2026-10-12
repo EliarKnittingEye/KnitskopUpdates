@@ -1,16 +1,16 @@
 {
-  "version": "2.2.64",
-  "notes": "Knitskop 2.2.64: Excel içe aktarma önizleme tablosu düzenlendi (sabit sütun genişlikleri, taşma yok, geçersiz satırlar kırmızı, çıkarılan satırlar soluk). Ağ Taraması satırlarının düzeni iyileştirildi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.65",
+  "notes": "Knitskop 2.2.65: Raporlarda gün kısaltmaları (Pzt, Sal, Çar, Per, Cum, Cmt, Paz) kullanılır. Verim tek bir kurala bağlandı: ölçüm kapsamı yetersizse verim uyarı simgesi ve kapsam bilgisiyle gösterilir. Kanıt galerisindeki sayı basılan kare sayısıyla eşleşir; raporlarda hata yerine tespit dili kullanılır. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.64/Knitskop-Windows-Setup.exe",
-    "sha256": "8a0bf37513318e3904d9c4e11b8eeec3e9b9fd79f30bc3fb46558bf5dde193ba",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.65/Knitskop-Windows-Setup.exe",
+    "sha256": "621d5195d4e6a6656fd57f9a511df4d63b9043d0b5445a2ad2147459196c1fb6",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109865205
+    "sizeBytes": 109865818
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.64/Knitskop-macOS-universal.dmg",
-    "sha256": "9b815b4ebb81a7f535e47f1a2d500c15f666d8c3693262c325d65e936f527909",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.65/Knitskop-macOS-universal.dmg",
+    "sha256": "3725e2b73bb4d7e6a1730a918be40af204ad33d6dee9d91ca153bcf27a1271f9",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231932033
+    "sizeBytes": 231932559
   }
 }
