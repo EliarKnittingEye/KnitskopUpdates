@@ -1,16 +1,16 @@
 {
-  "version": "2.2.50",
-  "notes": "Knitskop 2.2.50: Tüm raporlar yönetici formatında yenilendi. Filtreler ekranda ve PDF'te aynı sonucu verir; üretim, saatlik üretim ve top bazlı kırılımlar ile tahmini enerji bilgisi eklendi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.51",
+  "notes": "Knitskop 2.2.51: Yönetici raporlarında ek iyileştirmeler yapıldı. Tailscale bağlantı anahtarı artık macOS Anahtar Zinciri yerine uygulamanın kendi korumalı deposunda saklanıyor; Anahtar Zinciri izin penceresi artık çıkmaz. Önceki sürümden güncellerken ilk açılışta bir kez çıkabilir (İzin ver). Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.50/Knitskop-Windows-Setup.exe",
-    "sha256": "b7c88dcca2c271ae06188eb18203b6f0d0ea1525c8c4436c4366ed300c28c941",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.51/Knitskop-Windows-Setup.exe",
+    "sha256": "3929f12f1e6ddf590285862707dd2667e60b2347baaa769be58bdb4cfa5f483d",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109843184
+    "sizeBytes": 109843531
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.50/Knitskop-macOS-universal.dmg",
-    "sha256": "97c0f8a6e94b15a680c38222d594ad3bd61e095f12294e7af80efe248a35bcb8",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.51/Knitskop-macOS-universal.dmg",
+    "sha256": "525363e8961d218b41509df3bc1437e5bff0f28ecba3004be78ddac651a48228",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231921756
+    "sizeBytes": 231929332
   }
 }
