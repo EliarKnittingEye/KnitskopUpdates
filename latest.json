@@ -1,16 +1,16 @@
 {
-  "version": "2.2.49",
-  "notes": "Knitskop 2.2.49: Günlük ve haftalık/dönem raporlarında PDF düğmesine tek tıklayınca PDF artık yalnız bir kez üretiliyor. PDF hazırlanırken düğme kilitlenir ve İptal çubuğu görünür. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.50",
+  "notes": "Knitskop 2.2.50: Tüm raporlar yönetici formatında yenilendi. Filtreler ekranda ve PDF'te aynı sonucu verir; üretim, saatlik üretim ve top bazlı kırılımlar ile tahmini enerji bilgisi eklendi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.49/Knitskop-Windows-Setup.exe",
-    "sha256": "648ff983a6194168207bc6365d4fe0f81e0ee4ab50a1ee5dd5a357f73b16e421",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.50/Knitskop-Windows-Setup.exe",
+    "sha256": "b7c88dcca2c271ae06188eb18203b6f0d0ea1525c8c4436c4366ed300c28c941",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109852102
+    "sizeBytes": 109843184
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.49/Knitskop-macOS-universal.dmg",
-    "sha256": "fb243e9cccbacf4dd0435a95e1467b4c0950ca0d215b89a52b7de69edf1b890c",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.50/Knitskop-macOS-universal.dmg",
+    "sha256": "97c0f8a6e94b15a680c38222d594ad3bd61e095f12294e7af80efe248a35bcb8",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231882759
+    "sizeBytes": 231921756
   }
 }
