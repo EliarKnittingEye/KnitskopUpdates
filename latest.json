@@ -1,16 +1,16 @@
 {
-  "version": "2.2.55",
-  "notes": "Knitskop 2.2.55: Top raporlarının PDF dosya adı artık topun kendi numarasını taşır. Kanıt sayfası A4 yatay düzende, sayfa başına 2 ham kare olarak gösterilir. Rapor özetine ortalama gün satırı eklendi (yalnız ölçümü olan günler). Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.56",
+  "notes": "Knitskop 2.2.56: Kusur kanıt görselleri raporun son bölümünde, sayfa başına 9 kare (3×3) olarak gösterilir; kareler kırpılmaz ve işaretlenmez, PDF kısalır. Ekranda görseller büyütülebilir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.55/Knitskop-Windows-Setup.exe",
-    "sha256": "5b2169c7c91f15f12b009ad06addab6cf01c29461e0a239260435dfbf28b4012",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.56/Knitskop-Windows-Setup.exe",
+    "sha256": "1a651c0ec35c7102667f34ed37c045940fd2f0cb18ed5877546f760d604a413a",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109850019
+    "sizeBytes": 109850500
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.55/Knitskop-macOS-universal.dmg",
-    "sha256": "beff5a4ab33b29c3faa15f22590833d26b1731948068c43eaa0bdadc18d346e9",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.56/Knitskop-macOS-universal.dmg",
+    "sha256": "e950534b7446c75938312ac5db4804d592dc496b2f12a776db5f7538890b037c",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231900562
+    "sizeBytes": 231900896
   }
 }
