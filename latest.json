@@ -1,16 +1,16 @@
 {
-  "version": "2.2.47",
-  "notes": "Knitskop 2.2.47: Uzun süre kapalı kalıp geri dönen makinelerin topları artık doğru güne yazılıyor. Daha önce yanlış güne yazılmış eski toplar güncellemeden sonraki ilk açılışta otomatik onarılır (birkaç dakika sürebilir, önce yedek alınır); hiçbir kayıt silinmez.",
+  "version": "2.2.48",
+  "notes": "Knitskop 2.2.48: Makine (Lite) yazılımı kayıt zamanlarını tam tarih ve saat olarak göndermeye başladığında toplar ve raporlar bunu doğru okuyor; saatler ve günler kaymıyor. Eski kayıtlar eskisi gibi çalışır; güncelleme uygulama içinden yapılır.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.47/Knitskop-Windows-Setup.exe",
-    "sha256": "688a26084974f3cb4c8501cae44865956219b9b31b0cfa01c54fbe8b4bd3ffa1",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.48/Knitskop-Windows-Setup.exe",
+    "sha256": "4c9353844792aa6d398c028c2eef12c529b1e6354cb07cf2f251d0a63134e7a8",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109849864
+    "sizeBytes": 109850352
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.47/Knitskop-macOS-universal.dmg",
-    "sha256": "4ec9904977b229e0fa411f0daf5f193b43af92038b21c28a138ebcb14ed9248e",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.48/Knitskop-macOS-universal.dmg",
+    "sha256": "5a48aa982918f01996c0befd042bdda3c562767cbff175ae0fed0f4344eff348",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231874414
+    "sizeBytes": 231875043
   }
 }
