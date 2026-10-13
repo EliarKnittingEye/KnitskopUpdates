@@ -1,16 +1,16 @@
 {
-  "version": "2.2.68",
-  "notes": "Knitskop 2.2.68: Yönetici raporu dört bölümlü yeni düzende: Genel Durum beş özet kartla açılır, enerji saat profili seçilen günlerin toplamını gösterir, rapor cümleleri sadeleştirildi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.69",
+  "notes": "Knitskop 2.2.69: Yönetici raporunda son rötuşlar: küçük göstergeler beşe indi, anlamlı değer girilmemiş iplik ve operatör alanları raporda gösterilmez. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.68/Knitskop-Windows-Setup.exe",
-    "sha256": "1dbd3a121672327c28c02ba45bd18f3f0ca80decf111cabf4118fad550bb779f",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.69/Knitskop-Windows-Setup.exe",
+    "sha256": "e47f29d9a9d45a6aa8424a63b0dbab6a8fd273b1ba18cee85314fbd3eacaf995",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109873662
+    "sizeBytes": 109873786
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.68/Knitskop-macOS-universal.dmg",
-    "sha256": "12268a87c2a55813414a3cc79e41b7ff1c06a16431c8ce67fc40d76b4f0914c0",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.69/Knitskop-macOS-universal.dmg",
+    "sha256": "f8381559d4e3bc349cfa019560b207a32c631b0225387c3e55d87d0a77fa6714",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231922660
+    "sizeBytes": 231923002
   }
 }
