@@ -1,16 +1,16 @@
 {
-  "version": "2.2.75",
-  "notes": "Knitskop 2.2.75: Yönetici raporunun Genel Durum kartları sadeleştirildi: alt yazılar tek kısa satır, ayrıntılar Ekler bölümünde ayrı tabloda. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.76",
+  "notes": "Knitskop 2.2.76: Yönetici raporunda KnittingEye durdurma kartı kaydın tam mı kısmen mi tutulduğunu net gösterir; kayıt tutmayan cihazlar için kısa ve tutarlı not eklendi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.75/Knitskop-Windows-Setup.exe",
-    "sha256": "aa6c62e5c01b71b1feefbcb928434c2ed7493d7d2483fd60e2f6cb21ab85fd40",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.76/Knitskop-Windows-Setup.exe",
+    "sha256": "722c4a0f8dd77dee5657cb8788889d2c3c436176d388c311d95cf717132f26b7",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109883328
+    "sizeBytes": 109883781
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.75/Knitskop-macOS-universal.dmg",
-    "sha256": "ada578a4fece7dd10ee065f6aac2a51f2fb4246804f57fe06fcb4e0b8fd446c2",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.76/Knitskop-macOS-universal.dmg",
+    "sha256": "f23b4c977c220e5959f28faf4f23c1888678f6c2f2911936e997b90f65fd8530",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231961795
+    "sizeBytes": 231962494
   }
 }
