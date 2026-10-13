@@ -1,16 +1,16 @@
 {
-  "version": "2.2.71",
-  "notes": "Knitskop 2.2.71: Yönetici raporlarında iş emri girilmeden tutulan kayıtlar artık 'İş emri girilmemiş — zaman bazlı kayıt' olarak gösterilir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.72",
+  "notes": "Knitskop 2.2.72: Ayarlar sayfasında makine kartı düzeni düzeltildi: kart başlıkları kartın tepesinde durur, önbellek tablosu kendi kutusunda kayar ve eşitleme ayarları sayfanın üstünde kalır. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.71/Knitskop-Windows-Setup.exe",
-    "sha256": "acd684024203a46b00db0ade144e3dc7e258360836fbbeaec788e8f7a75d2e1a",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.72/Knitskop-Windows-Setup.exe",
+    "sha256": "db69bbfc29e03c18f6483cd485dcd286a218e89fff48489a7dc55c800e175295",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109876164
+    "sizeBytes": 109876301
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.71/Knitskop-macOS-universal.dmg",
-    "sha256": "3309c45b1cc3797a102c1c4643768b5cbbad0e4f9f4765a2a67a0a8a351fac5c",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.72/Knitskop-macOS-universal.dmg",
+    "sha256": "5041ab674141288c8cd55822eb68ddfaa065410fcb7797fc0243f6892172ac17",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231915318
+    "sizeBytes": 231915489
   }
 }
