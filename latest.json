@@ -1,16 +1,16 @@
 {
-  "version": "2.2.67",
-  "notes": "Knitskop 2.2.67: Excel içe aktarma önizlemesinde kilogram değerleri geniş sayılarda artık kesilmez; yatay kaydırma gerekmez. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.68",
+  "notes": "Knitskop 2.2.68: Yönetici raporu dört bölümlü yeni düzende: Genel Durum beş özet kartla açılır, enerji saat profili seçilen günlerin toplamını gösterir, rapor cümleleri sadeleştirildi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.67/Knitskop-Windows-Setup.exe",
-    "sha256": "fef50fa422bdb9f6d049af80db384ff328222d2af208354f84c0b4b591d2b88f",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.68/Knitskop-Windows-Setup.exe",
+    "sha256": "1dbd3a121672327c28c02ba45bd18f3f0ca80decf111cabf4118fad550bb779f",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109869659
+    "sizeBytes": 109873662
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.67/Knitskop-macOS-universal.dmg",
-    "sha256": "d48c050bce7f14e807142fc8f49ad910acf3cdd985ded3b1b6dbe7fa151e97b5",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.68/Knitskop-macOS-universal.dmg",
+    "sha256": "12268a87c2a55813414a3cc79e41b7ff1c06a16431c8ce67fc40d76b4f0914c0",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231916175
+    "sizeBytes": 231922660
   }
 }
