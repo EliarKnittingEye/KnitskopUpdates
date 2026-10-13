@@ -1,16 +1,16 @@
 {
-  "version": "2.2.74",
-  "notes": "Knitskop 2.2.74: Rapor ekranına seçili dönem, iş emri ya da top için tüm tespit karelerini gösteren düğme ve 'Tek gün' filtresi eklendi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.75",
+  "notes": "Knitskop 2.2.75: Yönetici raporunun Genel Durum kartları sadeleştirildi: alt yazılar tek kısa satır, ayrıntılar Ekler bölümünde ayrı tabloda. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.74/Knitskop-Windows-Setup.exe",
-    "sha256": "f3bcd785972a6eab8126f3a738cb9fbcec3c708f3ccea32e446e1f9be053ab47",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.75/Knitskop-Windows-Setup.exe",
+    "sha256": "aa6c62e5c01b71b1feefbcb928434c2ed7493d7d2483fd60e2f6cb21ab85fd40",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109882425
+    "sizeBytes": 109883328
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.74/Knitskop-macOS-universal.dmg",
-    "sha256": "fd1719dceb6da9fcba39bd52cb5eb678b2d3159fa82591452b986f6aba2daf5e",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.75/Knitskop-macOS-universal.dmg",
+    "sha256": "ada578a4fece7dd10ee065f6aac2a51f2fb4246804f57fe06fcb4e0b8fd446c2",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231954612
+    "sizeBytes": 231961795
   }
 }
