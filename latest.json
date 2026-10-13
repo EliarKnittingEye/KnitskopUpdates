@@ -1,16 +1,16 @@
 {
-  "version": "2.2.79",
-  "notes": "Knitskop 2.2.79: Rapor takviminde başlangıç seçilip bitiş yazıldığında seçilen başlangıç artık dikkate alınır; bitiş başlangıçtan önceyse uyarı gösterilir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.80",
+  "notes": "Knitskop 2.2.80: Rapor takviminde tarih hatası, tarih düzeltilince kendiliğinden kalkar ve rapor yeniden yüklenir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.79/Knitskop-Windows-Setup.exe",
-    "sha256": "fc7e2cc6a183348bdd77892bc448ab2d244dc3276f20579ef77a085f6408f01b",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.80/Knitskop-Windows-Setup.exe",
+    "sha256": "9b139414a45336afcd11bfd19d43345427e44c6a6a1eb52eb6c708e4b6c3f267",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109888110
+    "sizeBytes": 109888268
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.79/Knitskop-macOS-universal.dmg",
-    "sha256": "4d73bd8611321ad4fb26fec1f75abeb40fbd35da2718c8a5503df8b532027407",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.80/Knitskop-macOS-universal.dmg",
+    "sha256": "3db481dc6ac7ec0ab9822ad47901ae8bfc9ad1b5ab700b80a66ffd16d8c3aa5e",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231956872
+    "sizeBytes": 231956982
   }
 }
