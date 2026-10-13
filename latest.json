@@ -1,16 +1,16 @@
 {
-  "version": "2.2.77",
-  "notes": "Knitskop 2.2.77: Rapor ekranına 'Tarih seç' takvimi eklendi; 2020 öncesi ya da gelecekteki rapor tarihleri anlaşılır bir mesajla reddedilir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.78",
+  "notes": "Knitskop 2.2.78: Rapor takvimi 'Tek gün' modunda açılır ve tek tıkla rapor gelir; 'Özel aralık'ta ilk tık başlangıcı seçer, ikinci tık raporu getirir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.77/Knitskop-Windows-Setup.exe",
-    "sha256": "48ea2b15ec27bc0b2599dc772417a453bdea099d5cc8f158265850924ce914f6",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.78/Knitskop-Windows-Setup.exe",
+    "sha256": "b775f88d652d4a7fe305671debe9a059ea9974b3ec7d4b7c14c30177587ef382",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109887596
+    "sizeBytes": 109887720
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.77/Knitskop-macOS-universal.dmg",
-    "sha256": "269d037279980772a62fe59aabd537ff3bb53927685fc5b41f9f8ebbf897fe38",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.78/Knitskop-macOS-universal.dmg",
+    "sha256": "e953b3f99594926d349668b943e3b97a1ce475a60a0850d7225f35c4937717b4",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231949104
+    "sizeBytes": 231949503
   }
 }
