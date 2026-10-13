@@ -1,16 +1,16 @@
 {
-  "version": "2.2.76",
-  "notes": "Knitskop 2.2.76: Yönetici raporunda KnittingEye durdurma kartı kaydın tam mı kısmen mi tutulduğunu net gösterir; kayıt tutmayan cihazlar için kısa ve tutarlı not eklendi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.77",
+  "notes": "Knitskop 2.2.77: Rapor ekranına 'Tarih seç' takvimi eklendi; 2020 öncesi ya da gelecekteki rapor tarihleri anlaşılır bir mesajla reddedilir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.76/Knitskop-Windows-Setup.exe",
-    "sha256": "722c4a0f8dd77dee5657cb8788889d2c3c436176d388c311d95cf717132f26b7",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.77/Knitskop-Windows-Setup.exe",
+    "sha256": "48ea2b15ec27bc0b2599dc772417a453bdea099d5cc8f158265850924ce914f6",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109883781
+    "sizeBytes": 109887596
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.76/Knitskop-macOS-universal.dmg",
-    "sha256": "f23b4c977c220e5959f28faf4f23c1888678f6c2f2911936e997b90f65fd8530",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.77/Knitskop-macOS-universal.dmg",
+    "sha256": "269d037279980772a62fe59aabd537ff3bb53927685fc5b41f9f8ebbf897fe38",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231962494
+    "sizeBytes": 231949104
   }
 }
