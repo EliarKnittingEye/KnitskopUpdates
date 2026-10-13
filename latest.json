@@ -1,16 +1,16 @@
 {
-  "version": "2.2.66",
-  "notes": "Knitskop 2.2.66: Raporların başlığı artık tespit özetini anlatır (kaç tespit, kaçında makine otomatik durdu, müdahale süreleri). Tespit / 1000 tur göstergesi ve önceki dönemle karşılaştırma eklendi. Ölçüm kapsamı düşükse Dikkat kutusu görünür; veri kapsamı ve yöntem bilgisi raporda yer alır. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.67",
+  "notes": "Knitskop 2.2.67: Excel içe aktarma önizlemesinde kilogram değerleri geniş sayılarda artık kesilmez; yatay kaydırma gerekmez. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.66/Knitskop-Windows-Setup.exe",
-    "sha256": "ceae95821e71cef6f71f172e67ffcda55688462b91dd2ff923694f52af2b35d4",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.67/Knitskop-Windows-Setup.exe",
+    "sha256": "fef50fa422bdb9f6d049af80db384ff328222d2af208354f84c0b4b591d2b88f",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109869527
+    "sizeBytes": 109869659
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.66/Knitskop-macOS-universal.dmg",
-    "sha256": "751656589a8bbda2226613e7b8dd2b3834cceb9522933c1cf7781a839fb4057c",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.67/Knitskop-macOS-universal.dmg",
+    "sha256": "d48c050bce7f14e807142fc8f49ad910acf3cdd985ded3b1b6dbe7fa151e97b5",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231916345
+    "sizeBytes": 231916175
   }
 }
