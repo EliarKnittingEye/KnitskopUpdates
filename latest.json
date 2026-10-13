@@ -1,16 +1,16 @@
 {
-  "version": "2.2.65",
-  "notes": "Knitskop 2.2.65: Raporlarda gün kısaltmaları (Pzt, Sal, Çar, Per, Cum, Cmt, Paz) kullanılır. Verim tek bir kurala bağlandı: ölçüm kapsamı yetersizse verim uyarı simgesi ve kapsam bilgisiyle gösterilir. Kanıt galerisindeki sayı basılan kare sayısıyla eşleşir; raporlarda hata yerine tespit dili kullanılır. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.66",
+  "notes": "Knitskop 2.2.66: Raporların başlığı artık tespit özetini anlatır (kaç tespit, kaçında makine otomatik durdu, müdahale süreleri). Tespit / 1000 tur göstergesi ve önceki dönemle karşılaştırma eklendi. Ölçüm kapsamı düşükse Dikkat kutusu görünür; veri kapsamı ve yöntem bilgisi raporda yer alır. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.65/Knitskop-Windows-Setup.exe",
-    "sha256": "621d5195d4e6a6656fd57f9a511df4d63b9043d0b5445a2ad2147459196c1fb6",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.66/Knitskop-Windows-Setup.exe",
+    "sha256": "ceae95821e71cef6f71f172e67ffcda55688462b91dd2ff923694f52af2b35d4",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109865818
+    "sizeBytes": 109869527
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.65/Knitskop-macOS-universal.dmg",
-    "sha256": "3725e2b73bb4d7e6a1730a918be40af204ad33d6dee9d91ca153bcf27a1271f9",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.66/Knitskop-macOS-universal.dmg",
+    "sha256": "751656589a8bbda2226613e7b8dd2b3834cceb9522933c1cf7781a839fb4057c",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231932559
+    "sizeBytes": 231916345
   }
 }
