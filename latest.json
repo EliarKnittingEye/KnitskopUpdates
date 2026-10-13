@@ -1,16 +1,16 @@
 {
-  "version": "2.2.72",
-  "notes": "Knitskop 2.2.72: Ayarlar sayfasında makine kartı düzeni düzeltildi: kart başlıkları kartın tepesinde durur, önbellek tablosu kendi kutusunda kayar ve eşitleme ayarları sayfanın üstünde kalır. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.73",
+  "notes": "Knitskop 2.2.73: Yönetici raporlarında durdurma kaydının hangi tarihten itibaren tutulduğu belirtilir; kayıt tutmayan cihazlar için açıklayıcı not eklenir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.72/Knitskop-Windows-Setup.exe",
-    "sha256": "db69bbfc29e03c18f6483cd485dcd286a218e89fff48489a7dc55c800e175295",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.73/Knitskop-Windows-Setup.exe",
+    "sha256": "3ef0ab33c10150229a17d8fe8f67ecf026372e894fcae37afb28e957110fd484",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109876301
+    "sizeBytes": 109879141
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.72/Knitskop-macOS-universal.dmg",
-    "sha256": "5041ab674141288c8cd55822eb68ddfaa065410fcb7797fc0243f6892172ac17",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.73/Knitskop-macOS-universal.dmg",
+    "sha256": "71ca328d76045dab409bb72beb7d843f63944ff9f6d5a7e09a1b4dedce736d35",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231915489
+    "sizeBytes": 231928932
   }
 }
