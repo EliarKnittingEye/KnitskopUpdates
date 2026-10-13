@@ -1,16 +1,16 @@
 {
-  "version": "2.2.78",
-  "notes": "Knitskop 2.2.78: Rapor takvimi 'Tek gün' modunda açılır ve tek tıkla rapor gelir; 'Özel aralık'ta ilk tık başlangıcı seçer, ikinci tık raporu getirir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.79",
+  "notes": "Knitskop 2.2.79: Rapor takviminde başlangıç seçilip bitiş yazıldığında seçilen başlangıç artık dikkate alınır; bitiş başlangıçtan önceyse uyarı gösterilir. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.78/Knitskop-Windows-Setup.exe",
-    "sha256": "b775f88d652d4a7fe305671debe9a059ea9974b3ec7d4b7c14c30177587ef382",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.79/Knitskop-Windows-Setup.exe",
+    "sha256": "fc7e2cc6a183348bdd77892bc448ab2d244dc3276f20579ef77a085f6408f01b",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109887720
+    "sizeBytes": 109888110
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.78/Knitskop-macOS-universal.dmg",
-    "sha256": "e953b3f99594926d349668b943e3b97a1ce475a60a0850d7225f35c4937717b4",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.79/Knitskop-macOS-universal.dmg",
+    "sha256": "4d73bd8611321ad4fb26fec1f75abeb40fbd35da2718c8a5503df8b532027407",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231949503
+    "sizeBytes": 231956872
   }
 }
