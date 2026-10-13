@@ -1,16 +1,16 @@
 {
-  "version": "2.2.69",
-  "notes": "Knitskop 2.2.69: Yönetici raporunda son rötuşlar: küçük göstergeler beşe indi, anlamlı değer girilmemiş iplik ve operatör alanları raporda gösterilmez. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.70",
+  "notes": "Knitskop 2.2.70: Ayarlar sayfası yenilendi: makine kartları üstte ve Türkçe durum etiketleriyle, tek Yenile düğmesi, katlanır eşitleme açıklaması ve veritabanı bilgisi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.69/Knitskop-Windows-Setup.exe",
-    "sha256": "e47f29d9a9d45a6aa8424a63b0dbab6a8fd273b1ba18cee85314fbd3eacaf995",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.70/Knitskop-Windows-Setup.exe",
+    "sha256": "c8ff8ac9328c50dc2e4e9a2b38bf61aff72a70d72686cd98de807560c3f3b399",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109873786
+    "sizeBytes": 109875267
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.69/Knitskop-macOS-universal.dmg",
-    "sha256": "f8381559d4e3bc349cfa019560b207a32c631b0225387c3e55d87d0a77fa6714",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.70/Knitskop-macOS-universal.dmg",
+    "sha256": "f1305fa8bf232962acb25612316b7497e89cb7621fb4c40a8760908327426faa",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231923002
+    "sizeBytes": 231914076
   }
 }
