@@ -1,16 +1,16 @@
 {
-  "version": "2.2.81",
-  "notes": "Knitskop 2.2.81: Raporda olay, top, iş emri, görsel ve özet öğelerine tıklayınca ayrıntı paneli açılır; bölüm bağlantıları raporu yeniden yüklemeden ilgili bölüme gider. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.82",
+  "notes": "Knitskop 2.2.82: Raporda galeri kareleri ilgili top paneline açılır, bölüm bağlantıları rapor içinde kayar, durdurma sayıları ve açıklamaları düzeltildi (kayıtsız dönemler 'bilgi yok' görünür). Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.81/Knitskop-Windows-Setup.exe",
-    "sha256": "48caaee75bf54abc98424c8ca747b6beefef7d34776786072ca60e904b06fdcf",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.82/Knitskop-Windows-Setup.exe",
+    "sha256": "2992a87f52edc65c7e91b8d545e0d7c7b8eb5a2f26bb5031a8776139664b2022",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109900264
+    "sizeBytes": 109907529
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.81/Knitskop-macOS-universal.dmg",
-    "sha256": "5a5ea437dc5cdce6167ca00b1786854e19893d930582d238afaa93e2f2d70738",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.82/Knitskop-macOS-universal.dmg",
+    "sha256": "1f7e3140d3a48c130809deb487fb0816b1a270c54ee4f99f89286fa505034d84",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231975630
+    "sizeBytes": 232002744
   }
 }
