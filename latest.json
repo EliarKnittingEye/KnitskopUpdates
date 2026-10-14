@@ -1,16 +1,16 @@
 {
-  "version": "2.2.88",
-  "notes": "Rapor sadeleştirildi. Gönderilmiş durdurma kayıtları KnittingEye durdurdu olarak sayılır; duruş süreleri hız kayıtlarından yaklaşık hesaplanır.",
+  "version": "2.2.89",
+  "notes": "Delik, iğne ve likra olayları raporlarda KnittingEye durdurdu olarak sayılır; ardışık kareler tek olaydır, süreler hız kayıtlarından yaklaşık hesaplanır. Doğrudan İzleme ekranları kutularına otomatik sığar; çevrimdışı makineler açıkça gösterilir.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.88/Knitskop-Windows-Setup.exe",
-    "sha256": "fcb47a0a82375da839b01231f951f5852a6a1f7cd019540602d16eed81f49408",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.89/Knitskop-Windows-Setup.exe",
+    "sha256": "eb8a6fa631c6a976beec9b5c742e0b5f3fe1f25c29faffa63b1a32d700e267c9",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109913219
+    "sizeBytes": 109913930
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.88/Knitskop-macOS-universal.dmg",
-    "sha256": "da1cf9f4d51a868b930eeaf2bd8b2b9b582ee8eb1e51882dfeebd9a89df1cd87",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.89/Knitskop-macOS-universal.dmg",
+    "sha256": "a203f771a2e21465b8648808c270ee75acc3b120b36d13591fac8afe6cf3df90",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232014885
+    "sizeBytes": 232013413
   }
 }
