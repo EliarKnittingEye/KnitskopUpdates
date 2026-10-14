@@ -1,16 +1,16 @@
 {
-  "version": "2.2.84",
-  "notes": "Knitskop 2.2.84: Rapor ayrıntı panelindeki hız grafiği artık kırpılmıyor, grafiğin tamamı görünüyor. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.85",
+  "notes": "Knitskop 2.2.85: Raporda olay işaretlerine ve 'Ne oldu?' satırlarına tıklayınca ilgili olayın paneli açılır (yakın işaretlerde ve yakınlaştırmada da doğru olay); rapor sayıları ve top numaraları tutarlı hale getirildi, lejant yenilendi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.84/Knitskop-Windows-Setup.exe",
-    "sha256": "d357cd52c818361fb73714e2236b85047835db0afaa8a4c8ac4c66cb2a09c9e2",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.85/Knitskop-Windows-Setup.exe",
+    "sha256": "91ac56760f4a5c14d6f6025c3125a5f3a67df824fe11bc777c6be87c825e325d",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109907785
+    "sizeBytes": 109911055
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.84/Knitskop-macOS-universal.dmg",
-    "sha256": "332252ad7aadd1b01b8ca409b0f40459810905b26b9651f428a8aff018df9bbe",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.85/Knitskop-macOS-universal.dmg",
+    "sha256": "499fe514d9384e50812d477eaf26be34f2b0cb1683c5f8c0dd802c6ac68347fe",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232000996
+    "sizeBytes": 231998464
   }
 }
