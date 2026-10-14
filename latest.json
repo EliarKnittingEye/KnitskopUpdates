@@ -1,16 +1,16 @@
 {
-  "version": "2.2.85",
-  "notes": "Knitskop 2.2.85: Raporda olay işaretlerine ve 'Ne oldu?' satırlarına tıklayınca ilgili olayın paneli açılır (yakın işaretlerde ve yakınlaştırmada da doğru olay); rapor sayıları ve top numaraları tutarlı hale getirildi, lejant yenilendi. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.86",
+  "notes": "Knitskop 2.2.86: Durdurma komutu gönderilip makinede dinleyen olmadığında rapor 'Komut gitti, dinleyen yoktu (makineye ulaşmadı)' der; bu olay durdurma sayılmaz ve duruş KnittingEye'a atfedilmez. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.85/Knitskop-Windows-Setup.exe",
-    "sha256": "91ac56760f4a5c14d6f6025c3125a5f3a67df824fe11bc777c6be87c825e325d",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.86/Knitskop-Windows-Setup.exe",
+    "sha256": "80cfab987f5838b679fe02ec1a1293f09158c3b709b56e89c36ed38a04a6b38d",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109911055
+    "sizeBytes": 109911822
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.85/Knitskop-macOS-universal.dmg",
-    "sha256": "499fe514d9384e50812d477eaf26be34f2b0cb1683c5f8c0dd802c6ac68347fe",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.86/Knitskop-macOS-universal.dmg",
+    "sha256": "1b3ce531985f8791495689b95219682847bd0be4fa73b14a7a81583a6c38a3fc",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 231998464
+    "sizeBytes": 232002258
   }
 }
