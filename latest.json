@@ -1,16 +1,16 @@
 {
-  "version": "2.2.87",
-  "notes": "Knitskop 2.2.87: Canlı görüntü akışı ilk kareden önce kapanabiliyordu; düzeltildi, canlı görüntü artık kesilmeden açılır. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.88",
+  "notes": "Rapor sadeleştirildi. Gönderilmiş durdurma kayıtları KnittingEye durdurdu olarak sayılır; duruş süreleri hız kayıtlarından yaklaşık hesaplanır.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.87/Knitskop-Windows-Setup.exe",
-    "sha256": "b9a7f305b1358331c6e1b01c9cfc35a726f8ad2d4e8d236ee41a2531f0cdc80b",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.88/Knitskop-Windows-Setup.exe",
+    "sha256": "fcb47a0a82375da839b01231f951f5852a6a1f7cd019540602d16eed81f49408",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109911889
+    "sizeBytes": 109913219
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.87/Knitskop-macOS-universal.dmg",
-    "sha256": "029a1b220bcc81c1ed4f58391232d335a6852375f9ed85b0ab60b1a455a0c791",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.88/Knitskop-macOS-universal.dmg",
+    "sha256": "da1cf9f4d51a868b930eeaf2bd8b2b9b582ee8eb1e51882dfeebd9a89df1cd87",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232002389
+    "sizeBytes": 232014885
   }
 }
