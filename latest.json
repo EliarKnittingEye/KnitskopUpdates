@@ -1,16 +1,16 @@
 {
-  "version": "2.2.86",
-  "notes": "Knitskop 2.2.86: Durdurma komutu gönderilip makinede dinleyen olmadığında rapor 'Komut gitti, dinleyen yoktu (makineye ulaşmadı)' der; bu olay durdurma sayılmaz ve duruş KnittingEye'a atfedilmez. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
+  "version": "2.2.87",
+  "notes": "Knitskop 2.2.87: Canlı görüntü akışı ilk kareden önce kapanabiliyordu; düzeltildi, canlı görüntü artık kesilmeden açılır. Güncelleme uygulama içinden yapılır; verileriniz korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.86/Knitskop-Windows-Setup.exe",
-    "sha256": "80cfab987f5838b679fe02ec1a1293f09158c3b709b56e89c36ed38a04a6b38d",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.87/Knitskop-Windows-Setup.exe",
+    "sha256": "b9a7f305b1358331c6e1b01c9cfc35a726f8ad2d4e8d236ee41a2531f0cdc80b",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109911822
+    "sizeBytes": 109911889
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.86/Knitskop-macOS-universal.dmg",
-    "sha256": "1b3ce531985f8791495689b95219682847bd0be4fa73b14a7a81583a6c38a3fc",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.87/Knitskop-macOS-universal.dmg",
+    "sha256": "029a1b220bcc81c1ed4f58391232d335a6852375f9ed85b0ab60b1a455a0c791",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232002258
+    "sizeBytes": 232002389
   }
 }
