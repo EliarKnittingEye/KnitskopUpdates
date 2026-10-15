@@ -1,16 +1,16 @@
 {
-  "version": "2.2.93",
-  "notes": "İzleme kartındaki Aç düğmesinin HTTPS ve uzak bağlantıda boş pencere göstermesi düzeltildi. Makine arayüzü ve canlı görüntü Knitskop bağlantısı üzerinden açılır.",
+  "version": "2.2.94",
+  "notes": "Üretim ve Kalite Raporu Genel Durum bölümüne enerji tüketimi eklendi: toplam kWh, çalışırken ve dururken tüketim ilk bakışta görünür. Model tüketimi tahmini olarak etiketlenir; hız verisi olmayan süreler sıfır tüketim sayılmaz. Ekran ve PDF birlikte güncellendi.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.93/Knitskop-Windows-Setup.exe",
-    "sha256": "7af6d8781a2a6d6a036793b9eddbd000919086df9f4812cb3625fc297161e21b",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.94/Knitskop-Windows-Setup.exe",
+    "sha256": "bf496364a714e2103417d00dd7426c194a76395a8528e3d031d5a947b208dfd9",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109940912
+    "sizeBytes": 109941214
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.93/Knitskop-macOS-universal.dmg",
-    "sha256": "e76f38cab012e766a50b90b1f96845c541128ce319d0d266bc2d2bcb93da980e",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.94/Knitskop-macOS-universal.dmg",
+    "sha256": "9b1e2a9f56bdda137ba458ee09299301a2737e4861ece01a34cc80b212466e73",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232065686
+    "sizeBytes": 232066032
   }
 }
