@@ -1,16 +1,16 @@
 {
-  "version": "2.2.97",
-  "notes": "Genel Durum enerji kartları kompakt bir düzene alındı; bekleme/sarım gücü elle girilmemiş/sayaçla ölçülmemişse dururken için 0,5 kW'lık bileşen tahmini kullanılıyor (ölçülmedi olarak işaretli). Rapordaki ortalama hız tanımları tek yerden hesaplanacak şekilde birleştirildi. Seyrek tespit yapan makinelerde bazı kayıtların bir gün geride görünen tarihi açılışta otomatik düzeltiliyor.",
+  "version": "2.2.98",
+  "notes": "Yönetici raporuna yeni bir 'KnittingEye size ne kazandırdı?' bölümü eklendi: durdurma sayısı/türü ve yeniden çalışmaya geçiş süresi gibi yalnızca cihaz kayıtlarından ölçülen değerler gösterilir. Kaçınılan kumaş metrajı ve parasal değer hesaplanmaz, rapor bunu açıkça belirtir.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.97/Knitskop-Windows-Setup.exe",
-    "sha256": "7b87f902b90e81baec59605e6fd998b0a58fd55023f4c4299158dec1f75aed6a",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.98/Knitskop-Windows-Setup.exe",
+    "sha256": "c885aaab1c8d0059dd77b43b2b6fb4b4f40771b2fce7b6c3d6bb55991f91cf3b",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109946909
+    "sizeBytes": 109948199
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.97/Knitskop-macOS-universal.dmg",
-    "sha256": "53ef2458786a34d8c72746ba45773044a22b93768cae2c6af7e81b5dd1b05af0",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.98/Knitskop-macOS-universal.dmg",
+    "sha256": "27d0554b2afcd1a3393ae79af18ae50116f81e3ccf9287b559b06cbe5e8b0fc9",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232097944
+    "sizeBytes": 232082395
   }
 }
