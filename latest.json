@@ -1,16 +1,16 @@
 {
-  "version": "2.2.95",
-  "notes": "Üretim ve Kalite Raporu enerji ayarlarında Bekleme ve Sarım gücü artık boş bırakılabilir; boş = ölçülmedi anlamına gelir ve rapor dururken tüketim göstermez (toplam yalnız çalışırken tahmindir). Pens ampermetreyle nasıl ölçüm yapılacağını anlatan kısa yardım metni eklendi.",
+  "version": "2.2.96",
+  "notes": "PDF raporlarda basit modda (gerçek iş emri olmadan) artık eski/sahte bir iş emri numarası görünmüyor, adı 'zaman-bazli-kayit' olarak sabitlendi. Olay grafiğinde, rpm penceresinin hemen dışına düşen olaylar da artık görünür kalıyor (zaman ekseni gerektiğinde genişliyor).",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.95/Knitskop-Windows-Setup.exe",
-    "sha256": "fbc86a9d2823e867bda8bb9093fc66e472e34131ef0e2e37c44cc7870fcd4a25",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.96/Knitskop-Windows-Setup.exe",
+    "sha256": "8c8e13a1082494ccb44cdd30ec97b9821fde5e070cd7db7d5bb5ad6ddd9f387f",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109942943
+    "sizeBytes": 109943764
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.95/Knitskop-macOS-universal.dmg",
-    "sha256": "31fa145254d2599949a263b51115e6974e9141720fed3d024ec63f6da9313705",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.96/Knitskop-macOS-universal.dmg",
+    "sha256": "997ff85b298b4d3edd5581277a7e5cfa0b84ca3a2cf9c875c5bec3e007d8bf13",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232073687
+    "sizeBytes": 232074501
   }
 }
