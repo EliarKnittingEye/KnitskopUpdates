@@ -1,16 +1,16 @@
 {
-  "version": "2.2.92",
-  "notes": "Doğrudan İzleme görüntüsü HTTPS ve uzak bağlantılarda Knitskop üzerinden WebSocket köprüsüyle aktarılır. Hız, sayaç ve kullanıcı mesajları korunur; uzak canlı kareler bağlantıyı yormadan iletilir, geçmiş hata görselleri seyreltilmez.",
+  "version": "2.2.93",
+  "notes": "İzleme kartındaki Aç düğmesinin HTTPS ve uzak bağlantıda boş pencere göstermesi düzeltildi. Makine arayüzü ve canlı görüntü Knitskop bağlantısı üzerinden açılır.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.92/Knitskop-Windows-Setup.exe",
-    "sha256": "ee6a939aacc9bc2e95e6e7fb668849739296868795f2a56d24f3a641579d3234",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.93/Knitskop-Windows-Setup.exe",
+    "sha256": "7af6d8781a2a6d6a036793b9eddbd000919086df9f4812cb3625fc297161e21b",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109940811
+    "sizeBytes": 109940912
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.92/Knitskop-macOS-universal.dmg",
-    "sha256": "39d2b9fe4e49eb5f170679a5f7444ac635c0c2a1592193f85da9c7bfb7c166a1",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.93/Knitskop-macOS-universal.dmg",
+    "sha256": "e76f38cab012e766a50b90b1f96845c541128ce319d0d266bc2d2bcb93da980e",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232065864
+    "sizeBytes": 232065686
   }
 }
