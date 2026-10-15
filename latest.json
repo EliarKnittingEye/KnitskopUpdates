@@ -1,16 +1,16 @@
 {
-  "version": "2.2.90",
-  "notes": "Delik, iğne ve likra için sınıftan durdurma sayımı yalnız eski Nano kayıtlarına uygulanır. Güncel kayıtlarda gönderildi, pasif, bastırıldı ve dinleyen yok bilgileri esas alınır; güncelleme sonrası eksik komut kayıtları eski sayılmaz. Doğrudan İzleme ekrana sığdırma düzeltmesi korunur.",
+  "version": "2.2.91",
+  "notes": "Gönderilmiş durdurma komutunda hız kaydında duruş görülmese de KnittingEye durdurdu sayılır; bu olayların beklemesi 0 sn gösterilir ve bekleme ortalamasına sıfır olarak katılır. Hızda ölçülen beklemeler ve eski Nano kayıt kuralı korunur.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.90/Knitskop-Windows-Setup.exe",
-    "sha256": "eb28b029a88604c36fe306ae4055d3b60c6d132521e42469b4f26557121a38aa",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.91/Knitskop-Windows-Setup.exe",
+    "sha256": "6bda34aee8615e89d0b415b960867bd0d78f16206afd08b0dc7546f0d4299c4a",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109914230
+    "sizeBytes": 109914333
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.90/Knitskop-macOS-universal.dmg",
-    "sha256": "07891edd3b42daea696b3a87e56ff38dd24059b0388b3a3241e4d492101a1f7e",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.91/Knitskop-macOS-universal.dmg",
+    "sha256": "3b67a2094a2cb7e9ace5023391ba393b0f483a9aa350eac19931fc2595c28602",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232014014
+    "sizeBytes": 232015084
   }
 }
