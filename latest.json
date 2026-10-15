@@ -1,16 +1,16 @@
 {
-  "version": "2.2.96",
-  "notes": "PDF raporlarda basit modda (gerçek iş emri olmadan) artık eski/sahte bir iş emri numarası görünmüyor, adı 'zaman-bazli-kayit' olarak sabitlendi. Olay grafiğinde, rpm penceresinin hemen dışına düşen olaylar da artık görünür kalıyor (zaman ekseni gerektiğinde genişliyor).",
+  "version": "2.2.97",
+  "notes": "Genel Durum enerji kartları kompakt bir düzene alındı; bekleme/sarım gücü elle girilmemiş/sayaçla ölçülmemişse dururken için 0,5 kW'lık bileşen tahmini kullanılıyor (ölçülmedi olarak işaretli). Rapordaki ortalama hız tanımları tek yerden hesaplanacak şekilde birleştirildi. Seyrek tespit yapan makinelerde bazı kayıtların bir gün geride görünen tarihi açılışta otomatik düzeltiliyor.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.96/Knitskop-Windows-Setup.exe",
-    "sha256": "8c8e13a1082494ccb44cdd30ec97b9821fde5e070cd7db7d5bb5ad6ddd9f387f",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.97/Knitskop-Windows-Setup.exe",
+    "sha256": "7b87f902b90e81baec59605e6fd998b0a58fd55023f4c4299158dec1f75aed6a",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109943764
+    "sizeBytes": 109946909
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.96/Knitskop-macOS-universal.dmg",
-    "sha256": "997ff85b298b4d3edd5581277a7e5cfa0b84ca3a2cf9c875c5bec3e007d8bf13",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.97/Knitskop-macOS-universal.dmg",
+    "sha256": "53ef2458786a34d8c72746ba45773044a22b93768cae2c6af7e81b5dd1b05af0",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232074501
+    "sizeBytes": 232097944
   }
 }
