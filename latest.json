@@ -1,16 +1,16 @@
 {
-  "version": "2.2.94",
-  "notes": "Üretim ve Kalite Raporu Genel Durum bölümüne enerji tüketimi eklendi: toplam kWh, çalışırken ve dururken tüketim ilk bakışta görünür. Model tüketimi tahmini olarak etiketlenir; hız verisi olmayan süreler sıfır tüketim sayılmaz. Ekran ve PDF birlikte güncellendi.",
+  "version": "2.2.95",
+  "notes": "Üretim ve Kalite Raporu enerji ayarlarında Bekleme ve Sarım gücü artık boş bırakılabilir; boş = ölçülmedi anlamına gelir ve rapor dururken tüketim göstermez (toplam yalnız çalışırken tahmindir). Pens ampermetreyle nasıl ölçüm yapılacağını anlatan kısa yardım metni eklendi.",
   "windows": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.94/Knitskop-Windows-Setup.exe",
-    "sha256": "bf496364a714e2103417d00dd7426c194a76395a8528e3d031d5a947b208dfd9",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.95/Knitskop-Windows-Setup.exe",
+    "sha256": "fbc86a9d2823e867bda8bb9093fc66e472e34131ef0e2e37c44cc7870fcd4a25",
     "fileName": "Knitskop-Windows-Setup.exe",
-    "sizeBytes": 109941214
+    "sizeBytes": 109942943
   },
   "mac": {
-    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.94/Knitskop-macOS-universal.dmg",
-    "sha256": "9b1e2a9f56bdda137ba458ee09299301a2737e4861ece01a34cc80b212466e73",
+    "url": "https://github.com/EliarKnittingEye/KnitskopUpdates/releases/download/v2.2.95/Knitskop-macOS-universal.dmg",
+    "sha256": "31fa145254d2599949a263b51115e6974e9141720fed3d024ec63f6da9313705",
     "fileName": "Knitskop-macOS-universal.dmg",
-    "sizeBytes": 232066032
+    "sizeBytes": 232073687
   }
 }
